@@ -31,5 +31,3 @@ If you use Tree-D fusion in a scientific publication, we would appreciate using 
   organization={Springer}
 }
 ```
-
-aa
